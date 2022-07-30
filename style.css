@@ -43,6 +43,11 @@ main {
      margin: 0 auto;
 }
 
+.btn hero_btn {
+     border:1px solid gray;
+     background-color: red;
+}
+
 .btn {
      font-size: 20px;
      line-height: 24px;
